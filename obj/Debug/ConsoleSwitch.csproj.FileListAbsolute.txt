@@ -1,0 +1,8 @@
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\obj\Debug\ConsoleSwitch.csproj.AssemblyReference.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\obj\Debug\ConsoleSwitch.csproj.SuggestedBindingRedirects.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\obj\Debug\ConsoleSwitch.csproj.CoreCompileInputs.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\bin\Debug\ConsoleSwitch.exe.config
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\bin\Debug\ConsoleSwitch.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\bin\Debug\ConsoleSwitch.pdb
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\obj\Debug\ConsoleSwitch.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 2\ConsoleSwitch\ConsoleSwitch\ConsoleSwitch\obj\Debug\ConsoleSwitch.pdb
